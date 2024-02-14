@@ -41,8 +41,8 @@ jobs:
 
         # 下载文件
         mkdir -p resource
-        curl -o "${RESOURCE_PATH1}" "${FILE_URL1}"
-        curl -o "${RESOURCE_PATH2}" "${FILE_URL2}"
+        wget -o "${RESOURCE_PATH1}" "${FILE_URL1}"
+        wget -o "${RESOURCE_PATH2}" "${FILE_URL2}"
 
     - name: Commit and push changes
       run: |
