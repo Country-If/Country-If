@@ -33,11 +33,12 @@ jobs:
     - name: Download file from website
       run: |
         # 请替换下面的URL为你想要下载的文件的URL
-        FILE_URL="https://raw.githubusercontent.com/Country-If/Country-If/output/github-contribution-grid-snake.svg"
+        FILE_URL="https://github.com/Country-If/Country-If/blob/output/github-contribution-grid-snake.svg"
         # 请替换下面的路径为你的GitHub仓库中resource文件夹的路径
         RESOURCE_PATH="resource/github-contribution-grid-snake.svg"
 
         # 下载文件
+        mkdir resource
         curl -o "${RESOURCE_PATH}" "${FILE_URL}"
 
     - name: Commit and push changes
