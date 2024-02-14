@@ -1,0 +1,41 @@
+name: Download and Save File to GitHub Repository
+
+on:
+  schedule:
+    # 每天的特定时间（例如，每天凌晨2点）触发
+    - cron: "0 */24 * * *"
+
+jobs:
+  download-and-save:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: |
+        python -m pip install requests
+
+    - name: Download file from website
+      run: |
+        # 请替换下面的URL为你想要下载的文件的URL
+        FILE_URL="https://raw.githubusercontent.com/Country-If/Country-If/output/github-contribution-grid-snake.svg"
+        # 请替换下面的路径为你的GitHub仓库中resource文件夹的路径
+        RESOURCE_PATH="resource/github-contribution-grid-snake.svg"
+
+        # 下载文件
+        curl -o "${RESOURCE_PATH}" "${FILE_URL}"
+
+    - name: Commit and push changes
+      run: |
+        git config --global user.email "2450854008@qq.com"
+        git config --global user.name "Country-If"
+        git add "${RESOURCE_PATH}"
+        git commit -m "Update resource file" || true
+        git push origin HEAD:main
