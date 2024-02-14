@@ -18,9 +18,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Country-If/Country-If/blob/output/github-contribution-grid-snake.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Country-If/Country-If/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://github.com/Country-If/Country-If/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="res/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="res/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="res/github-contribution-grid-snake.svg">
 </picture>
 
 <!-- icons: https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
