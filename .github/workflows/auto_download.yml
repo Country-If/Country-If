@@ -1,9 +1,17 @@
 name: Download and Save File to GitHub Repository
 
 on:
+  # run automatically every 24 hours
   schedule:
-    # 每天的特定时间（例如，每天凌晨2点）触发
-    - cron: "0 */24 * * *"
+    - cron: "0 */24 * * *" 
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - main
 
 jobs:
   download-and-save:
