@@ -3,7 +3,7 @@ name: Merge Files from Output to Main
 on:
   # run automatically every day 23:55
   schedule:
-    - cron: "57 23 * * *" 
+    - cron: "0 0 * * *" 
 
 jobs:
   copy_files:
