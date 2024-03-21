@@ -30,7 +30,7 @@ jobs:
     - name: Commit and Push Changes to Main Branch
       run: |
         cd main
-        git config user.name "Overleaf Sync Bot"
+        git config user.name "Actions Bot"
         git config user.email "actions@github.com"
         git add res/
         git commit -m "Automated copy of files from output to main/res" || true
