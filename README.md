@@ -14,7 +14,7 @@
     <img align="center" src="https://github-readme-stats-three-brown-35.vercel.app/api?username=Country-If&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true"/>
   </a>
   <a href="https://github.com/Country-If">
-    <img align="center" src="https://github-readme-stats-three-brown-35.vercel.app/api/top-langs/?username=Country-If&hide=tcl,xslt,jupyter%20notebook,smarty&theme=transparent&layout=compact&hide_border=true"/>
+    <img align="center" src="https://github-readme-stats-three-brown-35.vercel.app/api/top-langs/?username=Country-If&hide=tcl,xslt,jupyter%20notebook,smarty,tex&theme=transparent&layout=compact&hide_border=true"/>
   </a>
 </div>
 
