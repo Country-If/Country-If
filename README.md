@@ -2,18 +2,15 @@
 <!-- emojis: https://slackmojis.com/-->
 ## Information <img src="https://emojis.slackmojis.com/emojis/images/1696534303/70363/doggotypingq.gif?1696534303" width="40">
 - Education
-  - Undergraduate
-    - University: Guangdong University of Technology (GDUT)
-    - Department: School of Computers
-    - Major: Information Security
-    - Location: Guangzhou, Guangdong, China
-    - Degree: Bachelor's Degree of Engineering
-  - Postgraduate
-    - University: Xidian University（XDU)
-    - Department: School of Cyber Engineering
-    - Major: Network and Information Security
-    - Location: Xi'an, Shaanxi, China
-    - Degree: Master's Degree of Engineering
+
+  |                | Undergraduate                             | Postgraduate                     |
+  | :------------: | :---------------------------------------: | :------------------------------: |
+  | **University** | Guangdong University of Technology (GDUT) | Xidian University (XDU)          |
+  | **Department** | School of Computers                       | School of Cyber Engineering      |
+  | **Major**      | Information Security                      | Network and Information Security |
+  | **Location**   | Information Security                      | Xi'an, Shaanxi, China            |
+  | **Degree**     | Bachelor's Degree of Engineering          | Master's Degree of Engineering   |
+
 - Blog
   - [Github Page](https://Country-If.github.io)
   - [CSDN](https://blog.csdn.net/weixin_45824303)
