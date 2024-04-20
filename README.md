@@ -1,12 +1,24 @@
 # Maylon Xu <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="90">
 <!-- emojis: https://slackmojis.com/-->
 ## Information <img src="https://emojis.slackmojis.com/emojis/images/1696534303/70363/doggotypingq.gif?1696534303" width="40">
-- Undergraduate: School of Computers, Guangdong University of Technology, Guangzhou, Guangdong, China (GDUT) --Bachelor's Degree of Engineering
-- Postgraduate: School of Cyber Engineering, Xidian University, Xi'an, Shaanxi, China (XDU) --Master's Degree of Engineering
-- Blog: 
+- Education
+  - Undergraduate
+    - University: Guangdong University of Technology (GDUT)
+    - Department: School of Computers
+    - Major: Information Security
+    - Location: Guangzhou, Guangdong, China
+    - Degree: Bachelor's Degree of Engineering
+  - Postgraduate
+    - University: Xidian University（XDU)
+    - Department: School of Cyber Engineering
+    - Major: Network and Information Security
+    - Location: Xi'an, Shaanxi, China
+    - Degree: Master's Degree of Engineering
+- Blog
   - [Github Page](https://Country-If.github.io)
   - [CSDN](https://blog.csdn.net/weixin_45824303)
-- Email: maylonxu@foxmail.com
+- Email
+  - maylonxu@foxmail.com
 
 ## Stats <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="40">
 <div>
