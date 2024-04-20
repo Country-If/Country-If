@@ -5,7 +5,7 @@
 
   |                | Undergraduate                             | Postgraduate                     |
   | :------------: | :---------------------------------------: | :------------------------------: |
-  | **University** | Guangdong University of Technology (GDUT) | Xidian University (XDU)          |
+  | **University** | Guangdong University of Technology (GDUT) | Xidian University (XDU) <!--(Exempt from Admission Exam)-->         |
   | **Department** | School of Computers                       | School of Cyber Engineering      |
   | **Major**      | Information Security                      | Network and Information Security |
   | **Location**   | Information Security                      | Xi'an, Shaanxi, China            |
