@@ -16,6 +16,7 @@
   - [CSDN](https://blog.csdn.net/weixin_45824303)
 - Email
   - maylonxu@foxmail.com
+  - guotaoxu00@gmail.com
 
 ## Stats <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif?1680554188" width="40">
 <div>
