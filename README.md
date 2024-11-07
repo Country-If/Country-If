@@ -15,37 +15,37 @@
     <th>Education <img src="https://emojis.slackmojis.com/emojis/images/1696534303/70363/doggotypingq.gif" width="40"></th>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <table>
         <tr>
           <th></th>
-          <th>Undergraduate</th>
-          <th>Postgraduate</th>
+          <th align="center">Undergraduate</th>
+          <th align="center">Postgraduate</th>
         </tr>
         <tr>
           <td>University</td>
-          <td>Guangdong University of Technology (GDUT)</td>
-          <td>Xidian University (XDU)<!--(Exempt from Admission Exam)--></td>
+          <td align="center">Guangdong University of Technology (GDUT)</td>
+          <td align="center">Xidian University (XDU)<!--(Exempt from Admission Exam)--></td>
         </tr>
         <tr>
           <td>Department</td>
-          <td>School of Computers</td>
-          <td>School of Cyber Engineering</td>
+          <td align="center">School of Computers</td>
+          <td align="center">School of Cyber Engineering</td>
         </tr>
         <tr>
           <td>Major</td>
-          <td>Information Security</td>
-          <td>Network and Information Security</td>
+          <td align="center">Information Security</td>
+          <td align="center">Network and Information Security</td>
         </tr>
         <tr>
           <td>Location</td>
-          <td>Guangzhou, Guangdong, China</td>
-          <td>Xi'an, Shaanxi, China</td>
+          <td align="center">Guangzhou, Guangdong, China</td>
+          <td align="center">Xi'an, Shaanxi, China</td>
         </tr>
         <tr>
           <td>Degree</td>
-          <td>Bachelor's Degree of Engineering</td>
-          <td>Master's Degree of Engineering</td>
+          <td align="center">Bachelor's Degree of Engineering</td>
+          <td align="center">Master's Degree of Engineering</td>
         </tr>
       </table>
     </td>
