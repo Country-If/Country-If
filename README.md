@@ -4,11 +4,11 @@
 <h2 align="center">Contact <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="90"></h2>
 <table align="center">
   <tr>
-    <td style="text-align: left;">Blog</td>
+    <td style="text-align: left;"><b>Blog</b></td>
     <td align="center"><a href="https://Country-If.github.io">Github Page</a> | <a href="https://blog.csdn.net/weixin_45824303">CSDN</a></td>
   </tr>
   <tr>
-    <td style="text-align: left;">Email</td>
+    <td style="text-align: left;"><b>Email</b></td>
     <td align="center"><a href="mailto:maylonxu@foxmail.com"><kbd>maylonxu@foxmail.com</kbd></a> | <a href="mailto:guotaoxu00@gmail.com"><kbd>guotaoxu00@gmail.com</kbd></a></td>
   </tr>
 </table>
@@ -20,31 +20,31 @@
       <table>
         <tr>
           <th></th>
-          <th align="center">Undergraduate</th>
-          <th align="center">Postgraduate</th>
+          <th align="center"><b>Undergraduate</b></th>
+          <th align="center"><b>Postgraduate</b></th>
         </tr>
         <tr>
-          <td>University</td>
+          <td><b>University</b></td>
           <td align="center">Guangdong University of Technology (GDUT)</td>
           <td align="center">Xidian University (XDU)<!--(Exempt from Admission Exam)--></td>
         </tr>
         <tr>
-          <td>Department</td>
+          <td><b>Department</b></td>
           <td align="center">School of Computers</td>
           <td align="center">School of Cyber Engineering</td>
         </tr>
         <tr>
-          <td>Major</td>
+          <td><b>Major</b></td>
           <td align="center">Information Security</td>
           <td align="center">Network and Information Security</td>
         </tr>
         <tr>
-          <td>Location</td>
+          <td><b>Location</b></td>
           <td align="center">Guangzhou, Guangdong, China</td>
           <td align="center">Xi'an, Shaanxi, China</td>
         </tr>
         <tr>
-          <td>Degree</td>
+          <td><b>Degree</b></td>
           <td align="center">Bachelor's Degree of Engineering</td>
           <td align="center">Master's Degree of Engineering</td>
         </tr>
