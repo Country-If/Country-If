@@ -1,19 +1,16 @@
 <h1><p align="center">Welcome to Maylon's Github</p></h1>
-    <!-- emojis: https://slackmojis.com/-->
+
+<!-- emojis: https://slackmojis.com/-->
+<h2 align="center">Contact <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="90"></h2>
 <table align="center">
-  <tr>
-    <th>Contact <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" width="90"></th>
-  </tr>
   <td colspan="6">
     <p align="center">Blog: <a href="https://Country-If.github.io">Github Page</a> | <a href="https://blog.csdn.net/weixin_45824303">CSDN</a></p>
     <p align="center">Email: <a href="mailto:maylonxu@foxmail.com"><kbd>maylonxu@foxmail.com</kbd></a> | <a href="mailto:guotaoxu00@gmail.com"><kbd>guotaoxu00@gmail.com</kbd></a></p>
   </td>
 </table>
-  
+
+<h2 align="center">Education <img src="https://emojis.slackmojis.com/emojis/images/1696534303/70363/doggotypingq.gif" width="40"></h2>
 <table align="center">
-  <tr>
-    <th>Education <img src="https://emojis.slackmojis.com/emojis/images/1696534303/70363/doggotypingq.gif" width="40"></th>
-  </tr>
   <tr>
     <td align="center">
       <table>
