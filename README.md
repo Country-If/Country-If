@@ -53,7 +53,7 @@
   </tr>
 </table>
 
-<h2 align="center">Stats <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif" width="40"></h2>
+<h2 align="center">Status <img src="https://emojis.slackmojis.com/emojis/images/1680554188/65018/cat-roomba-exceptionally-fast.gif" width="40"></h2>
 <p align="center">
   <a href="https://github.com/Country-If"> 
     <img align="center" src="https://github-readme-stats-three-brown-35.vercel.app/api?username=Country-If&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true" /> 
