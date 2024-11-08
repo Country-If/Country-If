@@ -1,7 +1,8 @@
-name: Overleaf Sync with Git
+name: Overleaf Sync
 on:
   schedule:
     - cron: "0 0/4 * * *"
+    # cron: "30 4,10,16 * * *" # UTC+8: 12:30, 18:30 and 0:30
   workflow_dispatch:
       
 jobs:
